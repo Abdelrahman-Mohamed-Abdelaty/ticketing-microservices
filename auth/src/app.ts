@@ -6,7 +6,6 @@ import {signinRouter} from "./routes/signin";
 import {signupRouter} from "./routes/signup";
 import {signoutRouter} from "./routes/signout";
 import {errorHandler,NotFoundError} from "@ticketing-org-dev/common";
-import mongoose from 'mongoose'
 import cookieSession from "cookie-session";
 const app = express()
 app.set('trust proxy',true);
