@@ -12,6 +12,7 @@ A full-featured microservices backend application that enables users to list and
 * Payments are processed securely using Stripe
 * Full testing coverage across services
 * Concurrency control implemented to avoid race conditions
+* Implemented CI/CD pipelines for automated testing and deployment
 
 ---
 ## 🧱 Microservices
