@@ -2,7 +2,7 @@ name: deploy-auth
 
 on:
   push:
-    branches: [ main ]
+    branches: [ main ]  
     paths:
       - 'auth/**'
 
@@ -12,7 +12,7 @@ jobs:
 
     defaults:
       run:
-        working-directory: auth
+        working-directory: auth  
 
     steps:
       - uses: actions/checkout@v2
