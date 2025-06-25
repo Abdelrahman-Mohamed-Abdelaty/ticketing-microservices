@@ -33,7 +33,6 @@ A full-featured microservices backend application that enables users to list and
 | Testing             | Jest               |
 | Databases           | Redis, MongoDB     |
 | DevOps              | Docker, Kubernetes |
-| CI/CD               | CI/CD              |
 | Messaging           | NATS               |
 
 ---
